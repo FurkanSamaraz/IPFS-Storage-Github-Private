@@ -1,5 +1,7 @@
 # IPFS-Storage-Github-Private
 
+go mod vendor
+
 Encrypting Github projects and storing them on ipfs network.
 
 ![İPFS-GİTHUB (1)](https://user-images.githubusercontent.com/92402372/199045262-f5234b8f-ff0f-48a3-aec3-9743508373eb.png)
@@ -10,17 +12,25 @@ Terminal: ipfs daemon
 
 - go run main.go
 
-- 1 
+- 1  -> public repo
 
 Url: https://github.com/FurkanSamaraz/ipfs-git.git
 
-Key: abc&1*~#^2^#s0^=)^^7%b34
+Password Key: abc&1*~#^2^#s0^=)^^7%b34
 
-- 2
+Zip Name: test
+
+- 2 -> private repo
+- 
+Username: "github name"
+
+Token: "github personal access tokens"
 
 hash: QmWcsds2GA179z883q5q1EaJs1vRCRTESbrEDghCXFA9J7
 
-Key: abc&1*~#^2^#s0^=)^^7%b34
+Password Key: abc&1*~#^2^#s0^=)^^7%b34
+
+Zip Name: test
 
 
 # Diagram
