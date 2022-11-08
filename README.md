@@ -4,7 +4,7 @@ go mod vendor
 
 Encrypting Github projects and storing them on ipfs network.
 
-![İPFS-GİTHUB (1)](https://user-images.githubusercontent.com/92402372/199045262-f5234b8f-ff0f-48a3-aec3-9743508373eb.png)
+![İPFS-GİTHUB (2)](https://user-images.githubusercontent.com/92402372/200584131-8f1dd3b9-e969-416f-b82e-a922ecbcc6d4.png)
 
 - Download ipfs
 
