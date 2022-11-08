@@ -21,7 +21,7 @@ Password Key: abc&1*~#^2^#s0^=)^^7%b34
 Zip Name: test
 
 - 2 -> private repo
-- 
+
 Username: "github name"
 
 Token: "github personal access tokens"
